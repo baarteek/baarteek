@@ -14,3 +14,5 @@ I'm currently a student at the Kielce University of Technology 🏫, deeply pass
 ## Looking Forward
 I am eager to collaborate on projects that push the boundaries of technology and creativity. If you’re interested in working together or have a project that aligns with my skills, don’t hesitate to reach out. 🤝
 
+## Contact Me
+- 📧 Email: [krukowski.bartekk@gmail.com](mailto:krukowski.bartekk@gmail.com)
