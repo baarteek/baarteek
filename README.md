@@ -5,7 +5,7 @@ I have graduated with an Engineering degree from the Kielce University of Techno
 
 ## My Interests
 - **Programming and User Interface Design**: I enjoy crafting intuitive user interfaces that enhance user experience, both in web and mobile applications. 💻📱
-- **Electronics**: Working with electronic components and systems has always been intriguing to me. 💪p⚙️
+- **Electronics**: Working with electronic components and systems has always been intriguing to me. 💪⚙️
 - **CNC Machinery**: I am skilled in designing and operating CNC machines, which allows me to work precisely on complex projects. 🛠️
 - **3D Printing and Technologies**: I am actively involved in 3D printing, staying updated with the latest advancements and implementing them in practical applications. 🔖
 - **CAD Modeling**: Creating detailed 3D models in specialized CAD programs is another area where I excel, combining my technical know-how with creativity. 💐
