@@ -15,4 +15,5 @@ I have graduated with an Engineering degree from the Kielce University of Techno
 I am eager to collaborate on projects that push the boundaries of technology and creativity. If you’re interested in working together or have a project that aligns with my skills, don’t hesitate to reach out. 🤝
 
 ## Contact Me
-- 💎 Email: [krukowski.bartekk@gmail.com](mailto:krukowski.bartekk@gmail.com)
+- Email: [krukowski.bartekk@gmail.com](mailto:krukowski.bartekk@gmail.com)  
+- LinkedIn: [www.linkedin.com/in/bartek-krukowski](https://www.linkedin.com/in/bartek-krukowski)
